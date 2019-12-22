@@ -1,4 +1,4 @@
-# horizon-finding
+# Horizon Finding in Images
 
 #### This was implemented under the valuable guidance of Prof David Crandall at Indiana University in B551 Elements of AI during Fall 2019.
 
